@@ -2,8 +2,8 @@
 File Cutter
 
 ```
-git clone --depth=1 https://github.com/Mr-Beta-Version/CUT
-cd CUT
+git clone --depth=1 https://github.com/Mr-Beta-Version/cut
+cd cut
 bash run.sh
 
 ```
